@@ -1,0 +1,15 @@
+{
+  "name": "AgroColheita Pro",
+  "short_name": "AgroColheita",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#15803d",
+  "theme_color": "#15803d",
+  "icons": [
+    {
+      "src": "icone.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
